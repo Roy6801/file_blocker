@@ -1,0 +1,4 @@
+watchdog
+pynput
+pywin32
+python-dotenv
